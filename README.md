@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZMI-IMZ
 - 👀 I’m interested in developing a app for fhizioterapy and recovery
-- 💞️ I’m looking to collaborate on developing products for rehabilitation
+- 💞️ I’m looking to collaborate on developing products for rehabilitation that intagrates NFT-s
 - 📫 You can reach me by my email mi.zorila@gmail.com
 
 <!---
